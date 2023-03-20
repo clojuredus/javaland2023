@@ -19,6 +19,8 @@ Scripts im Ordner `src`.
   - [VSCode herunterladen](https://code.visualstudio.com/)
   - [Calva Plugin installieren](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) Zur Installation oben auf den grünen Button ("Install") klicken.
 
+![Ein Video, welches den Jack-In Prozess von Calva zeigt](resources/repl.mp4)
+
 ## Editor einrichten
 
 Wir verwenden hier VS Code bzw. VS Codium mit dem Plugin [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva).
@@ -40,13 +42,13 @@ Die folgenden Animationen stammen von https://calva.io/paredit/, wo auch die wei
 
 `Ctrl+Alt+Right` (Mac/Windows) oder `Cmd+Alt+.` (Linux)
 
-![](resources/img/slurp-forward.gif)
+![Eine Animation die zeigt, wie die schließende Klammer um eine S-Expression nach links bewegt wird](resources/img/slurp-forward.gif)
 
 **Schließende Klammer nach links verschieben**
 
 `Ctrl+Alt+Left` (Mac/Windows) oder `Cmd+Alt+,` (Linux)
 
-![](resources/img/barf-forward.gif)
+![Eine Animation die zeigt, wie die schließende Klammer um eine S-Expression nach links bewegt wird](resources/img/barf-forward.gif)
 
 ## Team
 
