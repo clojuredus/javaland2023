@@ -19,9 +19,9 @@ Scripts im Ordner `src`.
   - [VSCode herunterladen](https://code.visualstudio.com/)
   - [Calva Plugin installieren](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) Zur Installation oben auf den grünen Button ("Install") klicken.
 
+Alternativ kann das Repository auch geforkt und in GitHub Codespace oder GitPod geöffnet werden.
 
 https://user-images.githubusercontent.com/1507474/226466461-f2111031-0183-47c4-aded-4f8c6bbcf607.mp4
-
 
 ## Editor einrichten
 
