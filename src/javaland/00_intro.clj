@@ -1,5 +1,4 @@
-(ns javaland.00-intro
-  (:gen-class))
+(ns javaland.00-intro)
 
 ;; Willkommen in deinem ersten Clojure Skript!
 
