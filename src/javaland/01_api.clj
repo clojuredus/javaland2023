@@ -1,4 +1,4 @@
-(ns javaland.01-wetter
+(ns javaland.01-api
   (:require [clj-http.client :as client]
             [clojure.data.json :as json]))
 
