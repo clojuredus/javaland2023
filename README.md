@@ -21,14 +21,14 @@ Scripts im Ordner `src`.
 
 Alternativ kann das Repository auch geforkt und in GitHub Codespace oder GitPod geöffnet werden.
 
-https://user-images.githubusercontent.com/1507474/226466461-f2111031-0183-47c4-aded-4f8c6bbcf607.mp4
-
 ## Editor einrichten
 
 Wir verwenden hier VS Code bzw. VS Codium mit dem Plugin [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva).
 Dann starten wir eine REPL und verbinden den Editor damit. Das klappt besonders gut mit entsprechend konfiguriertem Editor, weshalb wir uns hier kurz die Zeit nehmen.
 
 Hier ist ein kleines Video, um in VS Code eine Clojure REPL zu starten und den Editor damit zu verbinden. Dann können wir den Code direkt aus dem Editor in die REPL schicken.
+
+https://user-images.githubusercontent.com/1507474/226466461-f2111031-0183-47c4-aded-4f8c6bbcf607.mp4
 
 ### Tastenkürzel
 
